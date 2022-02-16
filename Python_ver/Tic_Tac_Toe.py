@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # Matthew Simpson
 # Bootleg Tic-Tac-Toe
-# To recreate the classic Tic-Tac-Toe experience
+# Classic Tic-Tac-Toe
 
 import pygame
 
