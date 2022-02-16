@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# Anonymous Humanoid
+# Matthew Simpson
 # Bootleg Tic-Tac-Toe
 # To recreate the classic Tic-Tac-Toe experience
 
